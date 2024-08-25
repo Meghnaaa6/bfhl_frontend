@@ -1,0 +1,15 @@
+.box{
+  width: 90vw;
+  height: 40px;
+}
+
+.result{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.error{
+  text-align: center;
+}
